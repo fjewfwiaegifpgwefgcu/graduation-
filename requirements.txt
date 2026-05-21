@@ -7,3 +7,5 @@ plotly
 requests
 matplotlib
 seaborn
+xgboost
+catboost
