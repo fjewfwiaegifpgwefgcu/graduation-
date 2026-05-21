@@ -1,10 +1,9 @@
 streamlit
-joblib
-numpy
 pandas
+numpy
+scikit-learn
+joblib
+plotly
+requests
 matplotlib
 seaborn
-requests
-scikit-learn
-openpyxl
-plotly
