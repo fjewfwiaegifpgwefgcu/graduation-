@@ -3,6 +3,7 @@ joblib
 numpy
 pandas
 matplotlib
+seaborn
 requests
 scikit-learn
 openpyxl
